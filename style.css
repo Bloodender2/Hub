@@ -29,7 +29,7 @@ a{
     flex-direction: column;
     align-items: center;
     background-image: url(./img/WELCOME.svg);
-    font-size: 50px;
+    font-size: 350%;
     transition: 1s;
 }
 
